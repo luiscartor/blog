@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Welcome to the demo website of Quartz. Quartz is a crystalline Jekyll theme for blog.
+Mucha gente quiere vivir en Japon. Pero no es facil. Necesitas un plan. Prepararte para ejecutarlo, y dar el salto.
 
-For more information about this theme, please visit the [README](https://github.com/vfvong/jekyll-theme-quartz) in the official repository.
+Mi experiencia.
+
+De lo que va el blog.
+
