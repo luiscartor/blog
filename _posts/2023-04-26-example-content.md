@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example Content
-author: [Mark Otto, Song-Zi Vong]
+title: Ejemplo de blog post.
+author: [Akira]
 categories: [Example]
 tags: [html, math]
 math: true
