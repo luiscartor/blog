@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estudia kanji: acelera tu japonés y tus conocimientos sobre Japón
+title: Estudia kanji acelera tu japonés y tus conocimientos sobre Japón
 author: Luis
 categories: [Example]
 image: /cover2-edo-period-japanese.jpg
