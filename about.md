@@ -11,4 +11,4 @@ En 2006 aterricé en Tokio por primera vez. Era el comienzo de un año de interc
 El objetivo de este blog es ayudar a cualquier persona con el sueño de vivir en Japón a crear un plan, un camino de ida a Japón. Japón es un país con gente y cultura maravillosas, pero llegar y quedarse a vivir está, a su vez, lleno de adversidades. Por ello necesitas formarte, trazar un camino y manejar tus expectativas. A través de mis experiencias y mis años de estudios e interés por la vida y cultura en Japón, intentaré motivarte y ayudarte a conseguir tu sueño.
 
 **Planea, prepárate, y haz realidad tu sueño de mudarte a Japón**
-
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
