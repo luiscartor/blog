@@ -14,4 +14,4 @@ El objetivo de este blog es ayudar a cualquier persona con el sueño de vivir en
 **Planea, prepárate, y haz realidad tu sueño de mudarte a Japón**
 <br>
 <br>
-![Alt text](cover.jpg)
+![Alt text](pics/ameyoko.jpg)
