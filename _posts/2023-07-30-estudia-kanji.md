@@ -1,11 +1,15 @@
 ---
 layout: post
 title: >
-  Estudia kanji: acelera tu japonés y tus conocimientos sobre Japón
+  Aprende kanji, de un atracón 
 author: Akira Carrasco
 categories: [Idioma]
 image: /cover2-edo-period-japanese.jpg
 ---
+
+Aprende todos los kanji básicos en un tiempo reducido y acelera tu japonés y tus conocimientos sobre Japón
+{: .message }
+
 
 Empecé a estudiar japonés hace ya bastantes años, unos meses antes de mi año de intercambio en la universidad de Waseda. Desde entonces he comenzado y abandonado el estudio muchas veces. Sin embargo, solo desde hace unos tres o cuatro años puedo decir que soy capaz de leer japonés decentemente. Aún diría más. Desde aquel punto de inflexión, mi nivel hablado y de escucha ha mejorado drásticamente. Todo ello gracias a una cosa: ahora puedo leer kanji. Pienso firmemente que los kanji pueden ser la mejor puerta hacia el dominio del lenguaje japonés y de la cultura japonesa en general. Me explico.
 
