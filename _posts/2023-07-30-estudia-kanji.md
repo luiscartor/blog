@@ -7,7 +7,7 @@ categories: [Idioma]
 image: /cover2-edo-period-japanese.jpg
 ---
 
-Aprende todos los kanji básicos en un tiempo reducido y acelera tu japonés y tus conocimientos sobre Japón
+Aprende todos los kanji básicos en un tiempo reducido para acelerar tu japonés y tus conocimientos sobre Japón
 {: .message }
 
 
