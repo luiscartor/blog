@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-  Aprende kanji, de un atracón 
+  Aprende todos los kanji, rápido! 
 author: Akira Carrasco
 categories: [Idioma]
 image: /cover2-edo-period-japanese.jpg
