@@ -52,7 +52,8 @@ Por otro lado están los métodos ‘no tradicionales’, y aquí la cosa se pon
 
 Escribiré sobre WaniKani y mi experiencia con este método en otra entrada. Pero me gustaría anticipar que me parece el método más efectivo del momento para estudiar kanji - si tu objetivo es leer y no necesitas recordar la escritura. Se basa también en dividir cada kanji en componentes. Se estudian estos componentes asociándose a una palabra, y más tarde cada kanji es asociado a un pequeño ‘relato’ compuesto por los distintos componentes. WaniKani combina estos métodos de asociación de componentes usando relatos imaginativos y emocionales, con sistemas de repaso muy efectivos. A la vez, existe una comunidad muy grande de gente que comparte su experiencia de aprendizaje y su feedback. Conseguí estudiar todos los kanji básicos (+2000 kanji) en poco más de un año, dedicando 1-2.5 horas al día. Aún sigo repasando kanji a menudo, pero este método me permitió un ‘atracón de estudiar kanji’ que me permite leer textos complejos y que ha cambiado por completo mi capacidad de estudio sobre Japón. Soy un enamorado de este método, pero cualquier otro método de aprendizaje que te permita leer todos los kanji en un corto periodo de tiempo sería apropiado para el enfoque que propongo en este artículo. 
 
-
+<br>
+<br>
 
 En definitiva, cualquier método que te permita aprender todos los kanji fundamentales en poco tiempo va a tener un efecto drástico en tu viaje de aprendizaje del país nipón. Ya sea por afición o por obligación, te aseguro que leer kanji fluidamente (una vez dominas suficiente vocabulario y gramática) cambiará para siempre tu forma de adentrarte en la cultura japonesa. 
 
