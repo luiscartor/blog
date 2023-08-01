@@ -22,7 +22,7 @@ He vivido en Japón durante varios periodos de mi vida. Aunque mi progreso con e
 <br>
 <img src="/pics/kanji-study.jpg" alt.../>
 <br>
-![Alt text](/../pics/ameyoko.jpg)
+![Alt text](/pics/ameyoko.jpg)
 
 Una solución para este problema, y que a mí y a muchos otros les funciona, es lo que yo llamo pegarse un ‘atracón de estudiar kanji’. Esta estrategía consiste en dominar ‘todos’ los kanji (me refiero a leer al menos 2000 kanjis básicos) durante un periodo ‘corto’ de tiempo. Digamos que entre 6-9 meses y 2 años. Estudiarlos durante un corto periodo te permitiría no olvidar los kanjis tan fácilmente. Además, en cuanto dominas unos 1500 kanji, las lecturas de artículos, novelas, etc., se hacen soportables (si ya tienes un conocimiento medio del idioma). Ser capaz de leer textos/libros te mete en una espiral de mejora de capacidades lectoras que cambia para siempre tu nivel de japonés y posiblemente tus conocimientos sobre japón. Más abajo describo algunas estrategias para poder aprender 2000 kanji básicos en un tiempo reducido. Pero antes, déjame contarte algunos beneficios de dominar los kanji. 
 
