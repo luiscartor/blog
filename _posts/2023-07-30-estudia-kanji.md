@@ -20,7 +20,7 @@ He vivido en Japón durante varios periodos de mi vida. Aunque mi progreso con e
 **Los kanji son símbolos ideográficos que representan ideas o palabras.** Fueron introducidos desde China a través de Corea en el s.V,  y adaptados para representar el idioma japonés, que carecía de escritura. Cada kanji puede tener varios significados y lecturas, según se combinan entre ellos o con los silabarios con los que conviven (hiragana y katakana). El estudio en sí de la etimología de los kanji - su origen, significado y evolución -  es fascinante. El problema para los que no crecimos en Japón, y para los que no nos metieron los kanjis con calzador desde los seis hasta los 18 años (cuando nuestro cerebro absorbe casi cualquier cosa, incluso cuando el método de estudio no sea óptimo), es que éstos son muy difíciles de recordar permanentemente cuando los estudias de adulto. La mejor estrategia para no olvidar kanji es, posiblemente, no dejar de leer constantemente. El problema es que leer en japonés cuando no dominas un gran número de kanji es difícil. Primero, tienes que estar continuamente repasándolos para no olvidarlos. Además, los textos que alguien puede leer cuando conoce 100, 300, o 500 kanji son muy escasos. Y ya dejando aparte si queremos entretenernos con estas lecturas. 
 
 <br>
-<img src="/pics/kanji-study.jpg" alt.../>
+<img src="/pics/kanji-study.jpg" alt="Alt Text" />
 <br>
 ![Alt text](/pics/ameyoko.jpg)
 
