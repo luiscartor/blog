@@ -20,10 +20,10 @@ Más que una lista exhaustiva y detallada, este artículo pretende dar una visi�
 ### Programas y visados de trabajo con empleador japonés (‘Working Visa’)
 
 Para trabajar en una empresa japonesa, normalmente se necesita un visado patrocinado (‘sponsored visa’) por la propia compañia. Esto significa que necesitas encontrar un trabajo en Japón desde tu país de origen (a no ser que te encuentres ya allí con otro tipo de visado, como comentamos más abajo). El tipo de visa que podemos solicitar para trabajar en una empresa japonesa dependerá del tipo de trabajo, de nuestras cualificaciones, etc. Trabajadores altamente cualificados tienen más posibilidades de encontrar trabajo y ser patrocinado por una empresa (debido a la potencial escasez de estas cualificaciones dentro del país), pero muchas profesiones tienen posibilidad de patrocinio. Veamos algunas categorías de visados o empleos más comunes con los que recibir un visado:
-Técnicos: para ingenieros (incluyendo trabajadores en el campo de la física, medio ambiente, etc), especialistas en humanidades, en relaciones internacionales, etc. 
-Profesional altamente especializado  (‘skilled labor’): chefs, entrenadores personales, trabajos especializados del sector servicios, etc.
-Profesional altamente cualificado (‘highly skilled labor’): trabajadores con una carrera muy avanzada y prestigiosa.
-‘Internship' o ‘training’ visa, para gente en prácticas en una empresa. Suelen ser de corta duración. 
+- Técnicos: para ingenieros (incluyendo trabajadores en el campo de la física, medio ambiente, etc), especialistas en humanidades, en relaciones internacionales, etc. 
+- Profesional altamente especializado  (‘skilled labor’): chefs, entrenadores personales, trabajos especializados del sector servicios, etc.
+- Profesional altamente cualificado (‘highly skilled labor’): trabajadores con una carrera muy avanzada y prestigiosa.
+- ‘Internship' o ‘training’ visa, para gente en prácticas en una empresa. Suelen ser de corta duración. 
 Hay muchas otras categorías de empleo que podrías conseguir con patrocinio: investigador, artista, periodista, de servicios médicos, etc. 
 
 <br>
