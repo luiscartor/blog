@@ -7,7 +7,7 @@ tags: [planning]
 image: /pics/salaryman2-2.jpg
 ---
 
-**Conoce los tipos de visado para trabajar en Japón y empieza a planear tu carrera y mudanza a Japón**
+**Conoce los tipos de visado para trabajar en Japón y empieza a planear tu carrera y tu mudanza a Japón**
 {: .message }
 
 Si estás leyendo este blog, probablemente sueñas con mudarte a Japón para trabajar o estudiar. Esta entrada te guiará a través de algunas de las formas más comunes de conseguir empleo en Japón con la intención de mudarte de forma fija o temporal. La posibilidad de conseguir empleo está intrínsecamente ligada a los distintos tipos de visados existentes. Consideramos aquí que no tienes ningún tipo de visado todavía. 
