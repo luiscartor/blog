@@ -66,6 +66,8 @@ Investigadores/Profesores universitarios:
 Los trabajadores del ámbito académico que son invitados por una universidad japonesa o instituto de investigación pueden solicitar un visado específico. Este visado se podría extender continuamente hasta eventualmente, solicitar la residencia permanente. La institución puede patrocinar este visado individualmente, pero también existen varios programas de investigación que facilitan el obtener una posición en una universidad o instituto de investigación japonés. Yo tengo experiencia con este tipo de visados, así que en otro artículo hablaré de las posibilidades existentes y de consejos para maximizar tus posibilidades de obtener un contrato de investigación o plaza en una institución japonesa.
 
 <br>
+![Alt text]({{ site.baseurl }}/pics/salaryman1.jpg)
+<br>
 Trabajar con un visado de estudiante
 
 Aunque no he incluido los visados de estudiante en este artículo, es importante comentar que ciertos visados de estudios permiten trabajar en Japón a tiempo parcial. Trabajar mientras se estudia es una oportunidad genial para hacer conexiones en el país, y podría ser una de las mejores opciones para quedarse a vivir permanentemente. Esta es una genial estrategia de largo plazo para vivir en Japón, y deberías considerarla en tu plan. 
