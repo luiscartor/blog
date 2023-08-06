@@ -2,7 +2,7 @@
 layout: post
 title: >
   Aprende a leer kanji, rápido! 
-author: Akira Carrasco
+author: A. Carrasco
 categories: [Idioma]
 image: /cover2-edo-period-japanese.jpg
 ---
