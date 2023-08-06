@@ -26,17 +26,14 @@ Para trabajar en una empresa japonesa, normalmente se necesita un visado patroci
 - ‘Internship' o ‘training’ visa, para gente en prácticas en una empresa. Suelen ser de corta duración. 
 Hay muchas otras categorías de empleo que podrías conseguir con patrocinio: investigador, artista, periodista, de servicios médicos, etc. 
 
-<br>
 ### Transferencia interna (‘Transferee Visa’)
 
 También existe la opción de buscar empleo en una empresa multinacional que opera en Japón. De esta manera, podrías pedir trabajar desde Japón (obteniendo un ‘Working Visa’ del apartado anterior), o trabajar primero en otro país (¿tu país de origen?) y pedir un traslado o transferencia interna para trabajar en la central de Japón (obteniendo un ‘Transferee Visa’). Si ya trabajas en una empresa multinacional, también puedes averiguar si existen oficinas en Japón o posibilidades de colaborar con empresas hermanas/clientes en este país.
 
-<br>
-###　Emprendedores/empresarios
+### Emprendedores/empresarios
 
 Es posible conseguir un visado de inversor o emprendedor (un ‘Investor o Business Manager Visa’). Si haces una inversión grande en Japón, es posible obtener un visado. Abrir un negocio también es una posibilidad, aunque hay que tener en cuenta las complicaciones de la burocracia en Japón, sobre todo cuando no se domina el idioma. Algunos ejemplos que conozco de esta ruta de mudarse a Japón están relacionados con el mundo del turismo (p.ej., agencias de viajes o guías turísticos).
 
-<br>
 ### Remote work/ freelance:
 
 Si trabajas como ‘freelance’ o como asalariado pero de forma remota, también existe la posibilidad de obtener un visado de trabajo. Hay empresas en las que puedes trabajar en remoto desde cualquier país del mundo (ese es mi caso!). Estas empresas suelen contratar a terceras empresas que tienen sede en muchos países, y ellos te gestionan los salarios. Sin embargo, hay que tener en consideración las leyes y las normas con los impuestos. Depende del tipo de visado que tengas, no podrás pasar más de unos meses fuera de Japón si tienes un salario japonés. Por otro lado, si trabajas en remoto, con sede legal fuera de Japón, podrías pasar varios (tres) meses al año en Japón como visitante. Dedicaré un artículo completo al tema del trabajo remoto y mudarse a Japón. 
@@ -44,23 +41,21 @@ Si trabajas como ‘freelance’ o como asalariado pero de forma remota, tambié
 <br>
 ![Alt text]({{ site.baseurl }}/pics/teclado.jpg)
 <br>
+
 ### Profesores de idiomas
 
 Una de las opciones más comunes para mudarse a Japón, sobre todo para anglófonos. Sin embargo, existen muchas academias donde se enseña español. A su vez, muchísimos profesores de inglés que he encontrado en Japón no son nativos, así que es posible enseñar inglés siendo hispanohablante (un título superior de inglés ayuda mucho para esto).
 
 La demanda de profesores de idiomas es muy alta en Japón. Por ello existen diferentes programas para atraer profesores. Algunos de ellos son el famoso Japan Exchange and Teaching Programme (JET) o el Assistant Language Teaching Programme (ALT). Ya que la vía de la enseñanza de idiomas es de las más comunes y efectivas para mudarse a Japón, próximamente le dedicaré un artículo entero a este tema. 
 
-<br>
 ### Working Holiday Visa:
 
 Este visado está disponible solamente para ciertos países, sobre todo europeos (incluyendo España). Aunque también para otros países de habla hispana como Argentina o Chile. Se trata de un visado destinado a jóvenes (normalmente entre 18 y 30 años), y permite permanecer en Japón durante un año aproximadamente. Este visado permite trabajar en el país. A parte de ser un visado que pueda proporcionar un año de experimentar Japón, también puede ser tu billete de entrada a vivir en Japón, si consigues que el lugar donde trabajes te patrocine un visado una vez el “working holiday visa” expire. Para eso tendrás que tener una buena estrategia de permanencia en Japón. 
 
-<br>
 ### Entertainment Visa:
 
 Para personas de la industria del entretenimiento, como artistas o músicos pueden solicitar este tipo de visado. 
 
-<br>
 ### Investigadores/Profesores universitarios:
 
 Los trabajadores del ámbito académico que son invitados por una universidad japonesa o instituto de investigación pueden solicitar un visado específico. Este visado se podría extender continuamente hasta eventualmente, solicitar la residencia permanente. La institución puede patrocinar este visado individualmente, pero también existen varios programas de investigación que facilitan el obtener una posición en una universidad o instituto de investigación japonés. Yo tengo experiencia con este tipo de visados, así que en otro artículo hablaré de las posibilidades existentes y de consejos para maximizar tus posibilidades de obtener un contrato de investigación o plaza en una institución japonesa.
@@ -68,17 +63,15 @@ Los trabajadores del ámbito académico que son invitados por una universidad ja
 <br>
 ![Alt text]({{ site.baseurl }}/pics/salaryman1.jpg)
 <br>
+
 ### Trabajar con un visado de estudiante
 
 Aunque no he incluido los visados de estudiante en este artículo, es importante comentar que ciertos visados de estudios permiten trabajar en Japón a tiempo parcial. Trabajar mientras se estudia es una oportunidad genial para hacer conexiones en el país, y podría ser una de las mejores opciones para quedarse a vivir permanentemente. Esta es una genial estrategia de largo plazo para vivir en Japón, y deberías considerarla en tu plan. 
 
-<br>
 ### Voluntariado
 
 Aunque muchos voluntarios llegan a Japón con visas de turista (90 días) algunas ONGs podrían patrocinar visados de medio o largo plazo. Esto podría ser una buena opción para conseguir un trabajo en Japón durante tu voluntariado. Aunque estos visados no son muy comunes. 
 
-
-<br>
 ## Consideraciones finales
 
 Hay que recordar que cada una de estas opciones conlleva un nivel de requerimientos y dificultad diferentes. En otros artículos hablaremos de como crear una táctica de entrada a Japón que se ajuste a tu perfil. Conocer los tipos de visados te ayudará a crear tu estrategia de ida y permanencia en Japón. También hay que tener en cuenta que cada visado tiene unos requerimientos distintos, y que estos podrían variar entre países. Lo mejor es que consultes con tu embajada o consulado para conocer los detalles de cada visado. 
