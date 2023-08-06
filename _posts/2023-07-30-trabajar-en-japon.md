@@ -12,7 +12,7 @@ image: /pics/salaryman2-2.jpg
 
 Si estás leyendo este blog, probablemente sueñas con mudarte a Japón para trabajar o estudiar. Esta entrada te guiará a través de algunas de las formas más comunes de conseguir empleo en Japón con la intención de mudarte de forma fija o temporal. La posibilidad de conseguir empleo está intrínsecamente ligada a los distintos tipos de visados existentes. Consideramos aquí que no tienes ningún tipo de visado todavía. 
 
-Más que una lista exhaustiva y detallada, este artículo pretende dar una visión general de las posibilidades existentes. Simplemente el conocer las distintas opciones de visados y sus requerimientos te pondrá en ventaja respecto a otras personas, y te ayudará a crear tu plan de mudanza a Japón. Piensa que solamente leer este artículo te pone un paso más cerca de tu sueño (conocimiento es poder!). En próximos artículos hablaremos con más detalle sobre algunas de estas opciones y también de cómo ejecutar un plan de mudanza efectivo para aumentar tus posibilidades.  
+Más que una lista exhaustiva y detallada, este artículo pretende dar una visión general de las posibilidades existentes. Simplemente el conocer las distintas opciones de visados y sus requerimientos te pondrá en ventaja respecto a otras personas, y te ayudará a crear tu plan de mudanza a Japón. Piensa que solamente leer este artículo te pone un paso más cerca de tu sueño (¡conocimiento es poder!). En próximos artículos hablaremos con más detalle sobre algunas de estas opciones y también de cómo ejecutar un plan de mudanza efectivo para aumentar tus posibilidades.  
 
 <br>
 ![Alt text]({{ site.baseurl }}/pics/subway.jpg)
