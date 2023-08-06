@@ -15,7 +15,7 @@ Si estás leyendo este blog, probablemente sueñas con mudarte a Japón para tra
 Más que una lista exhaustiva y detallada, este artículo pretende dar una visión general de las posibilidades existentes. Simplemente el conocer las distintas opciones de visados y sus requerimientos te pondrá en ventaja respecto a otras personas, y te ayudará a crear tu plan de mudanza a Japón. Piensa que solamente leer este artículo te pone un paso más cerca de tu sueño (conocimiento es poder!). En próximos artículos hablaremos con más detalle sobre algunas de estas opciones y también de cómo ejecutar un plan de mudanza efectivo para aumentar tus posibilidades.  
 
 <br>
-![Alt text]({{ site.baseurl }}/pics/subway.jpg =100x20)
+![Alt text]({{ site.baseurl }}/pics/subway.jpg)
 <br>
 ### Programas y visados de trabajo con empleador japonés (‘Working Visa’)
 
@@ -39,7 +39,7 @@ Es posible conseguir un visado de inversor o emprendedor (un ‘Investor o Busin
 Si trabajas como ‘freelance’ o como asalariado pero de forma remota, también existe la posibilidad de obtener un visado de trabajo. Hay empresas en las que puedes trabajar en remoto desde cualquier país del mundo (ese es mi caso!). Estas empresas suelen contratar a terceras empresas que tienen sede en muchos países, y ellos te gestionan los salarios. Sin embargo, hay que tener en consideración las leyes y las normas con los impuestos. Depende del tipo de visado que tengas, no podrás pasar más de unos meses fuera de Japón si tienes un salario japonés. Por otro lado, si trabajas en remoto, con sede legal fuera de Japón, podrías pasar varios (tres) meses al año en Japón como visitante. Dedicaré un artículo completo al tema del trabajo remoto y mudarse a Japón. 
 
 <br>
-![Alt text]({{ site.baseurl }}/pics/teclado.jpg)
+![Alt text]({{ site.baseurl }}/pics/teclado-2.jpg)
 <br>
 
 ### Profesores de idiomas
