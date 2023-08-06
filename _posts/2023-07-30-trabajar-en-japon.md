@@ -4,16 +4,18 @@ title: Trabajar en Japón
 author: A. Carrasco
 categories: [Trabajo]
 tags: [planning]
+image: /cover2-edo-period-japanese.jpg
 ---
 
-Trabajar en Japón
+**Conoce los tipos de visado para trabajar en Japón y empieza a planear tu carrera y mudanza a Japón**
+{: .message }
 
 Si estás leyendo este blog, probablemente sueñas con mudarte a Japón para trabajar o estudiar. Esta entrada te guiará a través de algunas de las formas más comunes de conseguir empleo en Japón con la intención de mudarte de forma fija o temporal. La posibilidad de conseguir empleo está intrínsecamente ligada a los distintos tipos de visados existentes. Consideramos aquí que no tienes ningún tipo de visado todavía. 
 
 Más que una lista exhaustiva y detallada, este artículo pretende dar una visión general de las posibilidades existentes. Simplemente el conocer las distintas opciones de visados y sus requerimientos te pondrá en ventaja respecto a otras personas, y te ayudará a crear tu plan de mudanza a Japón. Piensa que solamente leer este artículo te pone un paso más cerca de tu sueño (conocimiento es poder!). En próximos artículos hablaremos con más detalle sobre algunas de estas opciones y también de cómo ejecutar un plan de mudanza efectivo para aumentar tus posibilidades.  
 
 
-Programas y visados de trabajo con empleador japonés (‘Working Visa’):
+### Programas y visados de trabajo con empleador japonés (‘Working Visa’)
 
 Para trabajar en una empresa japonesa, normalmente se necesita un visado patrocinado (‘sponsored visa’) por la propia compañia. Esto significa que necesitas encontrar un trabajo en Japón desde tu país de origen (a no ser que te encuentres ya allí con otro tipo de visado, como comentamos más abajo). El tipo de visa que podemos solicitar para trabajar en una empresa japonesa dependerá del tipo de trabajo, de nuestras cualificaciones, etc. Trabajadores altamente cualificados tienen más posibilidades de encontrar trabajo y ser patrocinado por una empresa (debido a la potencial escasez de estas cualificaciones dentro del país), pero muchas profesiones tienen posibilidad de patrocinio. Veamos algunas categorías de visados o empleos más comunes con los que recibir un visado:
 Técnicos: para ingenieros (incluyendo trabajadores en el campo de la física, medio ambiente, etc), especialistas en humanidades, en relaciones internacionales, etc. 
@@ -24,12 +26,12 @@ Hay muchas otras categorías de empleo que podrías conseguir con patrocinio: in
 
 
 
-Transferencia interna (‘Transferee Visa’):
+### Transferencia interna (‘Transferee Visa’)
 
 También existe la opción de buscar empleo en una empresa multinacional que opera en Japón. De esta manera, podrías pedir trabajar desde Japón (obteniendo un ‘Working Visa’ del apartado anterior), o trabajar primero en otro país (¿tu país de origen?) y pedir un traslado o transferencia interna para trabajar en la central de Japón (obteniendo un ‘Transferee Visa’). Si ya trabajas en una empresa multinacional, también puedes averiguar si existen oficinas en Japón o posibilidades de colaborar con empresas hermanas/clientes en este país.
 
 
-Emprendedores/ empresarios:
+###　Emprendedores/empresarios
 
 Es posible conseguir un visado de inversor o emprendedor (un ‘Investor o Business Manager Visa’). Si haces una inversión grande en Japón, es posible obtener un visado. Abrir un negocio también es una posibilidad, aunque hay que tener en cuenta las complicaciones de la burocracia en Japón, sobre todo cuando no se domina el idioma. Algunos ejemplos que conozco de esta ruta de mudarse a Japón están relacionados con el mundo del turismo (p.ej., agencias de viajes o guías turísticos).
 
