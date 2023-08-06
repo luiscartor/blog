@@ -34,7 +34,7 @@ También existe la opción de buscar empleo en una empresa multinacional que ope
 
 Es posible conseguir un visado de inversor o emprendedor (un ‘Investor o Business Manager Visa’). Si haces una inversión grande en Japón, es posible obtener un visado. Abrir un negocio también es una posibilidad, aunque hay que tener en cuenta las complicaciones de la burocracia en Japón, sobre todo cuando no se domina el idioma. Algunos ejemplos que conozco de esta ruta de mudarse a Japón están relacionados con el mundo del turismo (p.ej., agencias de viajes o guías turísticos).
 
-### Remote work/ freelance:
+### Trabajo remoto / freelance
 
 Si trabajas como ‘freelance’ o como asalariado pero de forma remota, también existe la posibilidad de obtener un visado de trabajo. Hay empresas en las que puedes trabajar en remoto desde cualquier país del mundo (ese es mi caso!). Estas empresas suelen contratar a terceras empresas que tienen sede en muchos países, y ellos te gestionan los salarios. Sin embargo, hay que tener en consideración las leyes y las normas con los impuestos. Depende del tipo de visado que tengas, no podrás pasar más de unos meses fuera de Japón si tienes un salario japonés. Por otro lado, si trabajas en remoto, con sede legal fuera de Japón, podrías pasar varios (tres) meses al año en Japón como visitante. Dedicaré un artículo completo al tema del trabajo remoto y mudarse a Japón. 
 
@@ -48,15 +48,15 @@ Una de las opciones más comunes para mudarse a Japón, sobre todo para anglófo
 
 La demanda de profesores de idiomas es muy alta en Japón. Por ello existen diferentes programas para atraer profesores. Algunos de ellos son el famoso Japan Exchange and Teaching Programme (JET) o el Assistant Language Teaching Programme (ALT). Ya que la vía de la enseñanza de idiomas es de las más comunes y efectivas para mudarse a Japón, próximamente le dedicaré un artículo entero a este tema. 
 
-### Working Holiday Visa:
+### Working Holiday Visa
 
 Este visado está disponible solamente para ciertos países, sobre todo europeos (incluyendo España). Aunque también para otros países de habla hispana como Argentina o Chile. Se trata de un visado destinado a jóvenes (normalmente entre 18 y 30 años), y permite permanecer en Japón durante un año aproximadamente. Este visado permite trabajar en el país. A parte de ser un visado que pueda proporcionar un año de experimentar Japón, también puede ser tu billete de entrada a vivir en Japón, si consigues que el lugar donde trabajes te patrocine un visado una vez el “working holiday visa” expire. Para eso tendrás que tener una buena estrategia de permanencia en Japón. 
 
-### Entertainment Visa:
+### Entertainment Visa
 
 Para personas de la industria del entretenimiento, como artistas o músicos pueden solicitar este tipo de visado. 
 
-### Investigadores/Profesores universitarios:
+### Investigadores/Profesores universitarios
 
 Los trabajadores del ámbito académico que son invitados por una universidad japonesa o instituto de investigación pueden solicitar un visado específico. Este visado se podría extender continuamente hasta eventualmente, solicitar la residencia permanente. La institución puede patrocinar este visado individualmente, pero también existen varios programas de investigación que facilitan el obtener una posición en una universidad o instituto de investigación japonés. Yo tengo experiencia con este tipo de visados, así que en otro artículo hablaré de las posibilidades existentes y de consejos para maximizar tus posibilidades de obtener un contrato de investigación o plaza en una institución japonesa.
 
