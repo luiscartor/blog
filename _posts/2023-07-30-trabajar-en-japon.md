@@ -4,7 +4,7 @@ title: Trabajar en Japón
 author: A. Carrasco
 categories: [Trabajo]
 tags: [planning]
-image: /cover2-edo-period-japanese.jpg
+image: /pics/subway.jpg
 ---
 
 **Conoce los tipos de visado para trabajar en Japón y empieza a planear tu carrera y mudanza a Japón**
