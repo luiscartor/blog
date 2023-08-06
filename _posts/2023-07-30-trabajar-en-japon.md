@@ -72,6 +72,7 @@ Aunque no he incluido los visados de estudiante en este artículo, es importante
 
 Aunque muchos voluntarios llegan a Japón con visas de turista (90 días) algunas ONGs podrían patrocinar visados de medio o largo plazo. Esto podría ser una buena opción para conseguir un trabajo en Japón durante tu voluntariado. Aunque estos visados no son muy comunes. 
 
+<br>
 ## Consideraciones finales
 
 Hay que recordar que cada una de estas opciones conlleva un nivel de requerimientos y dificultad diferentes. En otros artículos hablaremos de como crear una táctica de entrada a Japón que se ajuste a tu perfil. Conocer los tipos de visados te ayudará a crear tu estrategia de ida y permanencia en Japón. También hay que tener en cuenta que cada visado tiene unos requerimientos distintos, y que estos podrían variar entre países. Lo mejor es que consultes con tu embajada o consulado para conocer los detalles de cada visado. 
