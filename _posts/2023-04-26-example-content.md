@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ejemplo de blog post.
-author: [Akira]
+author: [A. Carrasco]
 categories: [Example]
 tags: [html, math]
 math: true
