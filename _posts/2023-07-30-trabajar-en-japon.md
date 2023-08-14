@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trabajar en Japón
+title: Guía para trabajar en Japón
 author: A. Carrasco
 categories: [Trabajo]
 tags: [planning]
