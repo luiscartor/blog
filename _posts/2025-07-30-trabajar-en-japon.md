@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guía para trabajar en Japón
-author: A. Carrasco
+author: L. Carrasco
 categories: [Trabajo]
 tags: [planning]
 image: /pics/salaryman2-2.jpg

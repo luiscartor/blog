@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Primeros días en Japón - por qué es normal sentirse perdido
-author: A. Carrasco
+author: L. Carrasco
 categories: [Vivir en Japón]
 tags: [planning]
 image: /pics/train.jpg
