@@ -4,7 +4,7 @@ title: Primeros días en Japón - por qué es normal sentirse perdido
 author: A. Carrasco
 categories: [Vivir en Japón]
 tags: [planning]
-image: /pics/salaryman2-2.jpg
+image: /pics/train.jpg
 ---
 
 
@@ -22,7 +22,7 @@ No era un gran problema en sí mismo. Ese era precisamente el problema: que no e
 No entender. No poder expresarte. Tener que resolver cosas importantes sin manejar bien el entorno. A esto se le suma algo que mucha gente no anticipa bien: la fatiga mental y la soledad. Estás todo el rato pensando, intentando entender, tomando decisiones pequeñas. Y al mismo tiempo todavía no tienes a nadie con quien hablar con naturalidad. Incluso rodeado de gente, puedes sentirte bastante solo.
 
 <br>
-![Alt text]({{ site.baseurl }}/pics/subway.jpg)
+![Alt text]({{ site.baseurl }}/pics/ginza.jpge)
 <br>
 
 ### El shock emocional de los primeros días
@@ -56,7 +56,7 @@ Come bien, duerme lo suficiente y resuelve lo imprescindible. Parece obvio, pero
 A veces la mejor decisión no es seguir empujando, sino comer algo decente, volver a casa, ducharte y dormir.
 
 <br>
-![Alt text]({{ site.baseurl }}/pics/konbini.jpg)
+![Alt text]({{ site.baseurl }}/pics/street.jpeg)
 <br>
 
 ### Busca contacto humano cuanto antes
@@ -111,9 +111,6 @@ No porque el sistema sea imposible, ni porque no existan mapas online, sino porq
 
 Por eso, durante los primeros días, calcula más tiempo del que crees necesario. Mucho más. Llegar con margen puede marcar la diferencia entre una anécdota y una mañana agotadora.
 
-<br>
-![Alt text]({{ site.baseurl }}/pics/station.jpg)
-<br>
 
 ### No saber comunicarte en situaciones básicas
 
@@ -161,9 +158,6 @@ Son detalles muy concretos, pero repetidos muchas veces dan esa sensación de es
 
 Y aun así, también esto pasa. Un día entiendes cómo funciona la basura de tu barrio. Otro día ya sabes comprar lo básico. Otro día usas una máquina sin pensarlo. Otro día reconoces tu salida de metro. Pequeñas cosas, sí, pero son precisamente esas pequeñas cosas las que empiezan a construir tu nueva normalidad.
 
-<br>
-![Alt text]({{ site.baseurl }}/pics/tokyo-street.jpg)
-<br>
 
 ## No tomes decisiones importantes en tu peor momento
 
