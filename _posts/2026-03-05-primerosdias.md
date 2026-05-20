@@ -22,7 +22,7 @@ No era un gran problema en sí mismo. Ese era precisamente el problema: que no e
 No entender. No poder expresarte. Tener que resolver cosas importantes sin manejar bien el entorno. A esto se le suma algo que mucha gente no anticipa bien: la fatiga mental y la soledad. Estás todo el rato pensando, intentando entender, tomando decisiones pequeñas. Y al mismo tiempo todavía no tienes a nadie con quien hablar con naturalidad. Incluso rodeado de gente, puedes sentirte bastante solo.
 
 <br>
-![Alt text]({{ site.baseurl }}/pics/ginza.jpge)
+![Alt text]({{ site.baseurl }}/pics/ginza.jpeg)
 <br>
 
 ### El shock emocional de los primeros días
@@ -56,7 +56,7 @@ Come bien, duerme lo suficiente y resuelve lo imprescindible. Parece obvio, pero
 A veces la mejor decisión no es seguir empujando, sino comer algo decente, volver a casa, ducharte y dormir.
 
 <br>
-![Alt text]({{ site.baseurl }}/pics/street.jpeg)
+![Alt text]({{ site.baseurl }}/pics/street.jpg)
 <br>
 
 ### Busca contacto humano cuanto antes
